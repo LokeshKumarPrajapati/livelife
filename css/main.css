@@ -275,7 +275,7 @@ button{
     margin: 5px;
 }
 .default-btn{
-    background-color: #ff6900;
+    background-color: green;
     ;
     color: #fff;
     line-height: 45px;
@@ -287,7 +287,7 @@ button{
 }
 .default-btn:hover{
     background-color: #ffffff;
-    color: #ff6900;
+    color: green;
     ;
 }
 .default-btn.btn_sm{
@@ -2058,8 +2058,7 @@ span.date{
    22.0 Scroll To Top
    ========================================================================== */
 #scroll-to-top{
-    background-color: #ff6900
-    ;
+    background-color: green;
     display: none;
     width: 45px;
     height: 45px;
